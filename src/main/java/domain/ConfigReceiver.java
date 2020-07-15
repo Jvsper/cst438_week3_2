@@ -1,4 +1,4 @@
-package domain;
+package domain; // use more appropriate package names, so it is not confusing
 
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.BindingBuilder;
